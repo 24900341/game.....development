@@ -1,9 +1,12 @@
 # EX 10 : ANIMATION USING FLASH
 
+NAME : MOHAMED NIZAMUDDIN A
+
+REG NO : 212224040194
 
 ## AIM
   
-  To create a motion tweening, shape tweening, guide layer and masking using Flash.
+To create a motion tweening, shape tweening, guide layer and masking using Flash.
 
 
 ## ALGORITHM
@@ -65,3 +68,10 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+![Screenshot 2025-05-07 224837](https://github.com/user-attachments/assets/67298e8d-fc43-45f2-a701-2fe47658dfd3)
+
+## RESULT : 
+
+Thus the  motion tweening, shape tweening, guide layer and masking is created using Flash.
+
